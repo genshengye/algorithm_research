@@ -55,6 +55,12 @@
     1、Paper：Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network (ECCV 2018)；
     2、人脸框+landmark+人脸3D信息（Python）
     
+##### [6、MTCNN多框架实现](https://github.com/imistyrain/MTCNN)
+    说明：
+    1、这个项目包含了几乎所有深度学习框架的MTCNN实现；
+    2、Windows、Linux和android平台；
+    3、cafef版、tensorflow版、opencv版、ncnn版等
+
 ---
 #### 五、人体3D姿态检测
 ##### [1、人体3D姿态检测](https://github.com/chanyn/3Dpose_ssl)
