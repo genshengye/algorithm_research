@@ -46,9 +46,14 @@
     1、MTCNN算法训练源码；
     2、包括106点模型训练数据；
     
-##### [4、基于NCNN推理引擎的MTCNN](https://github.com/moli232777144/mtcnn_ncnn)
+##### [4、基于NCNN推理引擎的MTCNN-Android-Win](https://github.com/moli232777144/mtcnn_ncnn)
     说明：
-    1、Android端demo；
+    1、Android和Windows平台demo；
+ 
+ ##### [4.1、基于NCNN推理引擎的MTCNN-IOS-Mac](https://github.com/xuduo35/ncnn-mtcnn-facenet)
+    说明：
+    1、IOS和Mac平台demo；
+    
     
 ##### [5、3D人脸检测-PRNet](https://github.com/YadiraF/PRNet)
     说明：
