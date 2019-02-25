@@ -50,7 +50,7 @@
     说明：
     1、Android和Windows平台demo；
  
- ##### [4.1、基于NCNN推理引擎的MTCNN-IOS-Mac](https://github.com/xuduo35/ncnn-mtcnn-facenet)
+##### [4.1、基于NCNN推理引擎的MTCNN-IOS-Mac](https://github.com/xuduo35/ncnn-mtcnn-facenet)
     说明：
     1、IOS和Mac平台demo；
     
@@ -65,6 +65,11 @@
     1、这个项目包含了几乎所有深度学习框架的MTCNN实现；
     2、Windows、Linux和android平台；
     3、cafef版、tensorflow版、opencv版、ncnn版等
+    
+##### [7、2D and 3D face alignment](https://github.com/1adrianb/face-alignment)
+    说明：
+    1、2D and 3D Face alignment
+    2、python版本
 
 ---
 #### 五、人体3D姿态检测
